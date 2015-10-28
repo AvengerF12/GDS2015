@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 43f62fe98a0fabc49bc03cb75c1b17da
+timeCreated: 1444067371
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite Barbarian Attack_0
+    21300002: Sprite Barbarian Attack_1
+    21300004: Sprite Barbarian Attack_2
+    21300006: Sprite Barbarian Attack_3
+    21300008: Sprite Barbarian Attack_4
+    21300010: Sprite Barbarian Attack_5
+    21300012: Sprite Barbarian Attack_6
+    21300014: Sprite Barbarian Attack_7
+    21300016: Sprite Barbarian Attack_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite Barbarian Attack_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Barbarian Attack_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 9
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Barbarian Attack_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 9
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Barbarian Attack_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 9
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Barbarian Attack_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 9
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Barbarian Attack_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 9
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Barbarian Attack_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Barbarian Attack_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Barbarian Attack_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 9
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

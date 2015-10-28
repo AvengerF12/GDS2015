@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BoardGen.cs">
+    <Files>
+      <File FileName="..\..\Documents\GridBased\Assets\BoardScript.cs" Line="37" Column="5" />
+      <File FileName="Assets\Scripts\BoardGen.cs" Line="69" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\test\Desktop\StarterExample\Assets\Scripts\BoardGen.cs" line="71" />
+      <Breakpoint file="C:\Users\test\Desktop\StarterExample\Assets\Scripts\BoardGen.cs" line="72" />
+      <Breakpoint file="C:\Users\test\Desktop\StarterExample\Assets\Scripts\BoardGen.cs" line="73" />
+      <Breakpoint file="C:\Users\test\Desktop\StarterExample\Assets\Scripts\BoardGen.cs" line="74" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
